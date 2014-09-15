@@ -806,3 +806,16 @@ h1 { letter-spacing:-1px; }
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
+
+
+.current-page-ancestor, .current-page-ancestor a{
+
+	background: #d83b36 !important;
+color: #fff !important;
+
+}
+
+.testimonials 
+{
+	height:100px;
+}
